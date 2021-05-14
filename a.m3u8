@@ -1,0 +1,116 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Tvaparecida.br" tvg-name="TV APARECIDA SD1" tvg-logo="https://i.imgur.com/dxqXS0O.png" group-title="RELIGIOSOS",TV APARECIDA SD1
+http://fiqueemcasa.club:80/live/927282820/1031089/1084.m3u8
+#EXTINF:-1 tvg-id="Power Couple 5" tvg-name="POWER COUPLE BRASIL HD" tvg-logo="https://i.imgur.com/Kksig5h.jpg" group-title="REALITY SHOW",POWER COUPLE BRASIL HD
+http://fiqueemcasa.club:80/live/927282820/1031089/135279.m3u8
+#EXTINF:-1 tvg-id="Power Couple 5" tvg-name="POWER COUPLE BRASIL HD1" tvg-logo="https://i.imgur.com/Kksig5h.jpg" group-title="REALITY SHOW",POWER COUPLE BRASIL HD1
+http://fiqueemcasa.club:80/live/927282820/1031089/135277.m3u8
+#EXTINF:-1 tvg-id="Globorj.br" tvg-name="GLOBO RJ HD" tvg-logo="https://i.imgur.com/P1mYnQb.png" group-title="REDE GLOBO",GLOBO RJ HD
+http://fiqueemcasa.club:80/live/927282820/1031089/8038.m3u8
+#EXTINF:-1 tvg-id="Globorj.br" tvg-name="GLOBO RJ HD1" tvg-logo="https://i.imgur.com/520c643.png" group-title="REDE GLOBO",GLOBO RJ HD1
+http://fiqueemcasa.club:80/live/927282820/1031089/1201.m3u8
+#EXTINF:-1 tvg-id="Globorj.br" tvg-name="GLOBO RJ SD" tvg-logo="https://i.imgur.com/P1mYnQb.png" group-title="REDE GLOBO",GLOBO RJ SD
+http://fiqueemcasa.club:80/live/927282820/1031089/8039.m3u8
+#EXTINF:-1 tvg-id="Globorj.br" tvg-name="GLOBO RJ SD1" tvg-logo="https://i.imgur.com/520c643.png" group-title="REDE GLOBO",GLOBO RJ SD1
+http://fiqueemcasa.club:80/live/927282820/1031089/1003.m3u8
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SP HD" tvg-logo="https://i.imgur.com/URH9vRH.png" group-title="REDE GLOBO",GLOBO SP HD
+http://fiqueemcasa.club:80/live/927282820/1031089/8034.m3u8
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SP HD1" tvg-logo="https://i.imgur.com/URH9vRH.png" group-title="REDE GLOBO",GLOBO SP HD1
+http://fiqueemcasa.club:80/live/927282820/1031089/1199.m3u8
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SP SD" tvg-logo="https://i.imgur.com/URH9vRH.png" group-title="REDE GLOBO",GLOBO SP SD
+http://fiqueemcasa.club:80/live/927282820/1031089/8035.m3u8
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SP SD1" tvg-logo="https://i.imgur.com/j2NxFE3.png" group-title="REDE GLOBO",GLOBO SP SD1
+http://fiqueemcasa.club:80/live/927282820/1031089/1987.m3u8
+#EXTINF:-1 tvg-id="TVGlobo.br" tvg-name="AC REDE AMAZONICA RIO BRANCO HD" tvg-logo="https://bit.ly/3ptlx40" group-title="REDE GLOBO",AC REDE AMAZONICA RIO BRANCO HD
+http://fiqueemcasa.club:80/live/927282820/1031089/104741.m3u8
+#EXTINF:-1 tvg-id="TVGlobo.br" tvg-name="AC REDE AMAZONICA RIO BRANCO SD" tvg-logo="https://bit.ly/3ptlx40" group-title="REDE GLOBO",AC REDE AMAZONICA RIO BRANCO SD
+http://fiqueemcasa.club:80/live/927282820/1031089/104740.m3u8
+#EXTINF:-1 tvg-id="TVGazetaAL.br" tvg-name="AL TV GAZETA HD" tvg-logo="https://i.imgur.com/hD0K0eB.png" group-title="REDE GLOBO",AL TV GAZETA HD
+http://fiqueemcasa.club:80/live/927282820/1031089/66990.m3u8
+#EXTINF:-1 tvg-id="TVGazetaAL.br" tvg-name="AL TV GAZETA SD" tvg-logo="https://i.imgur.com/hD0K0eB.png" group-title="REDE GLOBO",AL TV GAZETA SD
+http://fiqueemcasa.club:80/live/927282820/1031089/66989.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AM REDE AMAZONICA MANAUS HD" tvg-logo="https://bit.ly/3ptlx40" group-title="REDE GLOBO",AM REDE AMAZONICA MANAUS HD
+http://fiqueemcasa.club:80/live/927282820/1031089/104745.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AM REDE AMAZONICA MANAUS SD" tvg-logo="https://bit.ly/3ptlx40" group-title="REDE GLOBO",AM REDE AMAZONICA MANAUS SD
+http://fiqueemcasa.club:80/live/927282820/1031089/104744.m3u8
+#EXTINF:-1 tvg-id="RedeAmaznicaManausHD.br" tvg-name="AM REDE AMAZONICA MANAUS SD1" tvg-logo="https://bit.ly/3ptlx40" group-title="REDE GLOBO",AM REDE AMAZONICA MANAUS SD1
+http://fiqueemcasa.club:80/live/927282820/1031089/53430.m3u8
+#EXTINF:-1 tvg-id="TVAmazonia" tvg-name="AM TV AMAZÔNIA HD" tvg-logo="https://bit.ly/3ptlx40" group-title="REDE GLOBO",AM TV AMAZÔNIA HD
+http://fiqueemcasa.club:80/live/927282820/1031089/66987.m3u8
+#EXTINF:-1 tvg-id="TVAmazonia" tvg-name="AM TV AMAZÔNIA SD" tvg-logo="https://bit.ly/3ptlx40" group-title="REDE GLOBO",AM TV AMAZÔNIA SD
+http://fiqueemcasa.club:80/live/927282820/1031089/66986.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AP REDE AMAZONICA MACAPA HD" tvg-logo="https://bit.ly/3ptlx40" group-title="REDE GLOBO",AP REDE AMAZONICA MACAPA HD
+http://fiqueemcasa.club:80/live/927282820/1031089/104747.m3u8
+#EXTINF:-1 tvg-id="TVGlobo.br" tvg-name="AP REDE AMAZONICA MACAPA SD" tvg-logo="https://bit.ly/3ptlx40" group-title="REDE GLOBO",AP REDE AMAZONICA MACAPA SD
+http://fiqueemcasa.club:80/live/927282820/1031089/104746.m3u8
+#EXTINF:-1 tvg-id="Tvbahia.br" tvg-name="BA TV BAHIA HD" tvg-logo="https://bit.ly/3dncrTL" group-title="REDE GLOBO",BA TV BAHIA HD
+http://fiqueemcasa.club:80/live/927282820/1031089/8030.m3u8
+#EXTINF:-1 tvg-id="TVGlobo.br" tvg-name="BA TV BAHIA HD1" tvg-logo="https://bit.ly/3dncrTL" group-title="REDE GLOBO",BA TV BAHIA HD1
+http://fiqueemcasa.club:80/live/927282820/1031089/66984.m3u8
+#EXTINF:-1 tvg-id="Tvbahia.br" tvg-name="BA TV BAHIA SD" tvg-logo="https://bit.ly/3dncrTL" group-title="REDE GLOBO",BA TV BAHIA SD
+http://fiqueemcasa.club:80/live/927282820/1031089/8031.m3u8
+#EXTINF:-1 tvg-id="Tvbahia.br" tvg-name="BA TV BAHIA SD1" tvg-logo="https://bit.ly/3dncrTL" group-title="REDE GLOBO",BA TV BAHIA SD1
+http://fiqueemcasa.club:80/live/927282820/1031089/1089.m3u8
+#EXTINF:-1 tvg-id="TVGlobo.br" tvg-name="BA TV BAHIA SD2" tvg-logo="https://bit.ly/3dncrTL" group-title="REDE GLOBO",BA TV BAHIA SD2
+http://fiqueemcasa.club:80/live/927282820/1031089/66983.m3u8
+#EXTINF:-1 tvg-id="TVGlobo.br" tvg-name="BA TV SANTA CRUZ HD" tvg-logo="https://i.imgur.com/wXQG91s.png" group-title="REDE GLOBO",BA TV SANTA CRUZ HD
+http://fiqueemcasa.club:80/live/927282820/1031089/49736.m3u8
+#EXTINF:-1 tvg-id="TVGlobo.br" tvg-name="BA TV SANTA CRUZ SD" tvg-logo="https://i.imgur.com/wXQG91s.png" group-title="REDE GLOBO",BA TV SANTA CRUZ SD
+http://fiqueemcasa.club:80/live/927282820/1031089/49735.m3u8
+#EXTINF:-1 tvg-id="TVGlobo.br" tvg-name="BA TV SUBAE HD" tvg-logo="https://i.imgur.com/wjm9amO.png" group-title="REDE GLOBO",BA TV SUBAE HD
+http://fiqueemcasa.club:80/live/927282820/1031089/59013.m3u8
+#EXTINF:-1 tvg-id="TVGlobo.br" tvg-name="CE TV DIARIO FORTALEZA HD" tvg-logo="https://i.imgur.com/pIHKTx7.png" group-title="REDE GLOBO",CE TV DIARIO FORTALEZA HD
+http://fiqueemcasa.club:80/live/927282820/1031089/55078.m3u8
+#EXTINF:-1 tvg-id="TVGlobo.br" tvg-name="CE TV DIARIO FORTALEZA SD" tvg-logo="https://i.imgur.com/pIHKTx7.png" group-title="REDE GLOBO",CE TV DIARIO FORTALEZA SD
+http://fiqueemcasa.club:80/live/927282820/1031089/55077.m3u8
+#EXTINF:-1 tvg-id="TVGlobo.br" tvg-name="CE TV VERDES MARES CARIRI HD" tvg-logo="https://i.imgur.com/WkYpG3T.png" group-title="REDE GLOBO",CE TV VERDES MARES CARIRI HD
+http://fiqueemcasa.club:80/live/927282820/1031089/104725.m3u8
+#EXTINF:-1 tvg-id="TVGlobo.br" tvg-name="CE TV VERDES MARES CARIRI SD" tvg-logo="https://i.imgur.com/WkYpG3T.png" group-title="REDE GLOBO",CE TV VERDES MARES CARIRI SD
+http://fiqueemcasa.club:80/live/927282820/1031089/104724.m3u8
+#EXTINF:-1 tvg-id="Verdesmares.br" tvg-name="CE TV VERDES MARES FORTALEZA HD" tvg-logo="https://i.imgur.com/WkYpG3T.png" group-title="REDE GLOBO",CE TV VERDES MARES FORTALEZA HD
+http://fiqueemcasa.club:80/live/927282820/1031089/60372.m3u8
+#EXTINF:-1 tvg-id="Verdesmares.br" tvg-name="CE TV VERDES MARES FORTALEZA SD" tvg-logo="https://i.imgur.com/WkYpG3T.png" group-title="REDE GLOBO",CE TV VERDES MARES FORTALEZA SD
+http://fiqueemcasa.club:80/live/927282820/1031089/26606.m3u8
+#EXTINF:-1 tvg-id="Verdesmares.br" tvg-name="CE TV VERDES MARES FORTALEZA SD1" tvg-logo="https://i.imgur.com/WkYpG3T.png" group-title="REDE GLOBO",CE TV VERDES MARES FORTALEZA SD1
+http://fiqueemcasa.club:80/live/927282820/1031089/55480.m3u8
+#EXTINF:-1 tvg-id="Verdesmares.br" tvg-name="CE TV VERDES MARES HD" tvg-logo="https://i.imgur.com/WkYpG3T.png" group-title="REDE GLOBO",CE TV VERDES MARES HD
+http://fiqueemcasa.club:80/live/927282820/1031089/66971.m3u8
+#EXTINF:-1 tvg-id="Verdesmares.br" tvg-name="CE TV VERDES MARES SD" tvg-logo="https://i.imgur.com/WkYpG3T.png" group-title="REDE GLOBO",CE TV VERDES MARES SD
+http://fiqueemcasa.club:80/live/927282820/1031089/66970.m3u8
+#EXTINF:-1 tvg-id="GloboBrasilia.br" tvg-name="DF BRASILIA HD" tvg-logo="https://cms.connectvps.com/img/logo-globos/globodf.png" group-title="REDE GLOBO",DF BRASILIA HD
+http://fiqueemcasa.club:80/live/927282820/1031089/66967.m3u8
+#EXTINF:-1 tvg-id="GloboBrasilia.br" tvg-name="DF BRASILIA SD" tvg-logo="https://cms.connectvps.com/img/logo-globos/globodf.png" group-title="REDE GLOBO",DF BRASILIA SD
+http://fiqueemcasa.club:80/live/927282820/1031089/66966.m3u8
+#EXTINF:-1 tvg-id="GloboBrasilia.br" tvg-name="DF GLOBO BRASILIA HD" tvg-logo="https://i.imgur.com/m7ncYgM.png" group-title="REDE GLOBO",DF GLOBO BRASILIA HD
+http://fiqueemcasa.club:80/live/927282820/1031089/8054.m3u8
+#EXTINF:-1 tvg-id="GloboBrasilia.br" tvg-name="DF GLOBO BRASILIA HD1" tvg-logo="https://i.imgur.com/m7ncYgM.png" group-title="REDE GLOBO",DF GLOBO BRASILIA HD1
+http://fiqueemcasa.club:80/live/927282820/1031089/49147.m3u8
+#EXTINF:-1 tvg-id="GloboBrasilia.br" tvg-name="DF GLOBO BRASILIA SD" tvg-logo="https://i.imgur.com/m7ncYgM.png" group-title="REDE GLOBO",DF GLOBO BRASILIA SD
+http://fiqueemcasa.club:80/live/927282820/1031089/8055.m3u8
+#EXTINF:-1 tvg-id="GloboBrasilia.br" tvg-name="DF GLOBO BRASILIA SD1" tvg-logo="https://i.imgur.com/m7ncYgM.png" group-title="REDE GLOBO",DF GLOBO BRASILIA SD1
+http://fiqueemcasa.club:80/live/927282820/1031089/1210.m3u8
+#EXTINF:-1 tvg-id="TV Gazeta Sul" tvg-name="ES TV GAZETA SUL HD" tvg-logo="https://i.imgur.com/hD0K0eB.png" group-title="REDE GLOBO",ES TV GAZETA SUL HD
+http://fiqueemcasa.club:80/live/927282820/1031089/66964.m3u8
+#EXTINF:-1 tvg-id="TV Gazeta Sul" tvg-name="ES TV GAZETA SUL HD" tvg-logo="https://i.imgur.com/hD0K0eB.png" group-title="REDE GLOBO",ES TV GAZETA SUL HD
+http://fiqueemcasa.club:80/live/927282820/1031089/26573.m3u8
+#EXTINF:-1 tvg-id="TV Gazeta Sul" tvg-name="ES TV GAZETA SUL SD" tvg-logo="https://i.imgur.com/hD0K0eB.png" group-title="REDE GLOBO",ES TV GAZETA SUL SD
+http://fiqueemcasa.club:80/live/927282820/1031089/66963.m3u8
+#EXTINF:-1 tvg-id="TV Gazeta Sul" tvg-name="ES TV GAZETA SUL SD" tvg-logo="https://i.imgur.com/hD0K0eB.png" group-title="REDE GLOBO",ES TV GAZETA SUL SD
+http://fiqueemcasa.club:80/live/927282820/1031089/26572.m3u8
+#EXTINF:-1 tvg-id="TVGlobo.br" tvg-name="ES TV GAZETA VITORIA HD" tvg-logo="https://i.imgur.com/hD0K0eB.png" group-title="REDE GLOBO",ES TV GAZETA VITORIA HD
+http://fiqueemcasa.club:80/live/927282820/1031089/26594.m3u8
+#EXTINF:-1 tvg-id="TVGlobo.br" tvg-name="ES TV GAZETA VITORIA SD" tvg-logo="https://i.imgur.com/hD0K0eB.png" group-title="REDE GLOBO",ES TV GAZETA VITORIA SD
+http://fiqueemcasa.club:80/live/927282820/1031089/66959.m3u8
+#EXTINF:-1 tvg-id="TVGlobo.br" tvg-name="ES TV GAZETA VITORIA SD" tvg-logo="https://i.imgur.com/hD0K0eB.png" group-title="REDE GLOBO",ES TV GAZETA VITORIA SD
+http://fiqueemcasa.club:80/live/927282820/1031089/26596.m3u8
+#EXTINF:-1 tvg-id="TVGlobo.br" tvg-name="ES TV TRIBUNA" tvg-logo="https://i.imgur.com/pWni2GC.png" group-title="REDE GLOBO",ES TV TRIBUNA
+http://fiqueemcasa.club:80/live/927282820/1031089/59014.m3u8
+#EXTINF:-1 tvg-id="TVGlobo.br" tvg-name="ES TV TRIBUNA HD" tvg-logo="https://i.imgur.com/pWni2GC.png" group-title="REDE GLOBO",ES TV TRIBUNA HD
+http://fiqueemcasa.club:80/live/927282820/1031089/59016.m3u8
+#EXTINF:-1 tvg-id="GloboAnhangueraGoias.br" tvg-name="GO TV ANHANGUERA HD" tvg-logo="https://bit.ly/37r10GZ" group-title="REDE GLOBO",GO TV ANHANGUERA HD
+http://fiqueemcasa.club:80/live/927282820/1031089/8032.m3u8
+#EXTINF:-1 tvg-id="GloboAnhangueraGoias.br" tvg-name="GO TV ANHANGUERA HD1" tvg-logo="https://bit.ly/37r10GZ" group-title="REDE GLOBO",GO TV ANHANGUERA HD1
+http://fiqueemcasa.club:80/live/927282820/1031089/8175.m3u8
+#EXTINF:-1 tvg-id="GloboAnhangueraGoias.br" tvg-name="GO TV ANHANGUERA HD2" tvg-logo="https://bit.ly/37r10GZ" group-title="REDE GLOBO",GO TV ANHANGUERA HD2
+http://fiqueemcasa.club:80/live/927282820/1031089/66956.m3u8
+#EXTINF:-1 tvg-id="GloboAnhangueraGoias.br" tvg-name="GO 
