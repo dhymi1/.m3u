@@ -1,92 +1,91 @@
-
 #EXTM3U
-#EXTINF:-1 group-title="Categorias" tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png",SBT TV Cidade Verde PI 
+#EXTINF:0 type="stream" channelId="-1" group="Categorias" logo="https://listaiptv.gratis/logos/imagens/sbt.png", SBT TV Cidade Verde PI
 https://stmv1.transmissaodigital.com/cidadeverde/cidadeverde/playlist-480p.m3u8
-#EXTINF:-1 group-title="Categorias" tvg-logo="https://www.sbt.com.br/assets/images/logo-sbt.png",SBT Pará
-https://youtu.be/ABVQXgr2LW4
-#EXTINF:-1 group-title="Léo Gondim" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/8/8b/Logomarca_Record_2007.png",RECORD SP 
+#EXTINF:0 type="stream" channelId="-1" group="Categorias" logo="https://www.sbt.com.br/assets/images/logo-sbt.png", SBT Pará
+https://www.youtube.com/embed/RHeibnhwF-w
+#EXTINF:0 type="stream" channelId="-1" group="Léo Gondim" logo="https://upload.wikimedia.org/wikipedia/pt/8/8b/Logomarca_Record_2007.png", RECORD SP
 http://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_360_av-p.m3u8
-#EXTINF:-1 group-title="Categorias" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/8/8b/Logomarca_Record_2007.png",RecordTV Pará 
+#EXTINF:0 type="stream" channelId="-1" group="Categorias" logo="https://upload.wikimedia.org/wikipedia/pt/8/8b/Logomarca_Record_2007.png", RecordTV Pará
 https://playpluspa-lh.akamaihd.net/i/pp_pa@377468/master.m3u8
-#EXTINF:-1 group-title="Categorias" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/02f51b8570ea8cfa33124682de42dc0a.jpg",RBATV (Band PA 
+#EXTINF:0 type="stream" channelId="-1" group="Categorias" logo="http://www.cxtv.com.br/img/Tvs/Logo/02f51b8570ea8cfa33124682de42dc0a.jpg", RBATV (Band PA
 https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/chunklist_w1284500547.m3u8
-#EXTINF:-1 group-title="Variedades" tvg-logo="https://listaiptv.gratis/logos/imagens/band.png",Band TV 
+#EXTINF:0 type="stream" channelId="-1" group="Variedades" logo="https://listaiptv.gratis/logos/imagens/band.png", Band TV
 http://evpp.mm.uol.com.br:1935/geob_band/app/playlist.m3u8
-#EXTINF:-1 group-title="Categorias" tvg-logo="https://listaiptv.gratis/logos/imagens/culturapara.png",Cultura Pará 
+#EXTINF:0 type="stream" channelId="-1" group="Categorias" logo="https://listaiptv.gratis/logos/imagens/culturapara.png", Cultura Pará
 http://str.portalcultura.com.br/funtelpa/tv_funtelpa/live.m3u8
-#EXTINF:-1 group-title="Categorias" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/b309bcd47506d9139919501ff2ba595c.png",TV Marajoara 
+#EXTINF:0 type="stream" channelId="-1" group="Categorias" logo="http://www.cxtv.com.br/img/Tvs/Logo/b309bcd47506d9139919501ff2ba595c.png", TV Marajoara
 http://video01.kshost.com.br/tv31966/tv31966/chunklist_w874853021.m3u8
-#EXTINF:-1 group-title="Categorias" tvg-logo="https://listaiptv.gratis/logos/imagens/redetvesp.png",Rede TV 
+#EXTINF:0 type="stream" channelId="-1" group="Categorias" logo="https://listaiptv.gratis/logos/imagens/redetvesp.png", Rede TV
 https://hls.brasilstream.com.br/live/redetves/redetves/mono.m3u8?token=6410329353875642000
-#EXTINF:-1 group-title="Categorias" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/b0baf19518fb782525c37b40c2f5d9b5.png",TV Pampa RedeTV! RS
+#EXTINF:0 type="stream" channelId="-1" group="Categorias" logo="http://www.cxtv.com.br/img/Tvs/Logo/b0baf19518fb782525c37b40c2f5d9b5.png", TV Pampa RedeTV! RS
 https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/playlist.m3u8
-#EXTINF:-1 group-title="REPORTAGEM NEWS" tvg-logo="https://www.meioemensagem.com.br/wp-content/uploads/2019/03/CNN-Brasil-marca.jpg",CNN 
+#EXTINF:0 type="stream" channelId="2883" group="REPORTAGEM NEWS" logo="https://www.meioemensagem.com.br/wp-content/uploads/2019/03/CNN-Brasil-marca.jpg", CNN
 https://streaming.cnnbrasil.com.br/cnndigital_main.m3u8
-#EXTINF:-1 group-title="Jornalismo" tvg-logo="https://listaiptv.gratis/logos/imagens/recnews.png",Record News
+#EXTINF:0 type="stream" channelId="2456" group="Jornalismo" logo="https://listaiptv.gratis/logos/imagens/recnews.png", Record News
 https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/master.m3u8
-#EXTINF:-1 group-title="Infantil" tvg-logo="https://listaiptv.gratis/logos/imagens/retro-tv.png",Retrô Cartoon
+#EXTINF:0 type="stream" channelId="-1" group="Infantil" logo="https://listaiptv.gratis/logos/imagens/retro-tv.png", Retrô Cartoon
 https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8
-#EXTINF:-1 group-title="Infantil" tvg-logo="https://listaiptv.gratis/logos/imagens/kuriakos2bkids.png",Kuriakos
+#EXTINF:0 type="stream" channelId="-1" group="Infantil" logo="https://listaiptv.gratis/logos/imagens/kuriakos2bkids.png", Kuriakos
 http://c2.manasat.com:1935/kkids/kkids2/playlist.m3u8
-#EXTINF:-1 group-title="Categorias" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/44fae4d3394877ed0880e78b4563450d.png",Tv Manchete
+#EXTINF:0 type="stream" channelId="-1" group="Categorias" logo="http://www.cxtv.com.br/img/Tvs/Logo/44fae4d3394877ed0880e78b4563450d.png", Tv Manchete
 https://srv5.zcast.com.br/tvmanchete/tvmanchete/chunklist_w1269330748.m3u8
-#EXTINF:-1 group-title="Categorias" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/1ef59e88801387f71231a6b12a5c0db6.png",TV Séries
+#EXTINF:0 type="stream" channelId="-1" group="Categorias" logo="http://www.cxtv.com.br/img/Tvs/Logo/1ef59e88801387f71231a6b12a5c0db6.png", TV Séries
 https://stmv1.srvstm.com/tvserie/tvserie/chunklist_w1625334407.m3u8
-#EXTINF:-1 group-title="Infantil" tvg-logo="https://listaiptv.gratis/logos/imagens/smilinguido.png",Gospel Cartoon
+#EXTINF:0 type="stream" channelId="-1" group="Infantil" logo="https://listaiptv.gratis/logos/imagens/smilinguido.png", Gospel Cartoon
 https://stmv1.srvstm.com/gospelcartoon2/gospelcartoon2/playlist.m3u8
-#EXTINF:-1 group-title="Categorias" tvg-logo="https://1.bp.blogspot.com/-53AZAPOU02s/X_CUYPId-BI/AAAAAAAAEFQ/sRGx_Fxm_6UMfT6kAuHbv4WnLvREc3mAACLcBGAsYHQ/s0/TV%2BGERMANA.png",TV GERMANA
+#EXTINF:0 type="stream" channelId="-1" group="Categorias" logo="https://1.bp.blogspot.com/-53AZAPOU02s/X_CUYPId-BI/AAAAAAAAEFQ/sRGx_Fxm_6UMfT6kAuHbv4WnLvREc3mAACLcBGAsYHQ/s0/TV%2BGERMANA.png", TV GERMANA
 https://59f1cbe63db89.streamlock.net:1443/tvgermana/_definst_/tvgermana/chunklist_w327615965.m3u8
-#EXTINF:-1 group-title="Categorias" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/e102e2a838d5207b803272e0f31bfa79.jpg",Rede Família canal
+#EXTINF:0 type="stream" channelId="-1" group="Categorias" logo="http://www.cxtv.com.br/img/Tvs/Logo/e102e2a838d5207b803272e0f31bfa79.jpg", Rede Família canal
 https://5a1c76baf08c0.streamlock.net/familia/smil:familia.smil/chunklist_b1628000.m3u8
-#EXTINF:-1 group-title="Categorias" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/8f492416e6ab68d83d51bea8bbcafe7b.png",Canção Nova canal
+#EXTINF:0 type="stream" channelId="-1" group="Categorias" logo="http://www.cxtv.com.br/img/Tvs/Logo/8f492416e6ab68d83d51bea8bbcafe7b.png", Canção Nova canal
 https://tvajuhls-lh.akamaihd.net/i/tvdesk_1@147040/index_432_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 group-title="Religioso" tvg-logo="https://listaiptv.gratis/logos/imagens/paieterno.png",TV Pai Eterno
+#EXTINF:0 type="stream" channelId="-1" group="Religioso" logo="https://listaiptv.gratis/logos/imagens/paieterno.png", TV Pai Eterno
 https://59f1cbe63db89.streamlock.net:1443/teste01/_definst_/teste01/chunklist.m3u8
-#EXTINF:-1 group-title="Categorias" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/afc37cf19c9d2acd765a4d6d041f74ce.png",TV Evangelizar
+#EXTINF:0 type="stream" channelId="-1" group="Categorias" logo="http://www.cxtv.com.br/img/Tvs/Logo/afc37cf19c9d2acd765a4d6d041f74ce.png", TV Evangelizar
 https://5f593df7851db.streamlock.net/evangelizar/tv/chunklist_w236162528.m3u8
-#EXTINF:-1 group-title="Categorias" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/42174cd70ddce777c49b24aea7730341.png",TV Rede Gospel
+#EXTINF:0 type="stream" channelId="-1" group="Categorias" logo="http://www.cxtv.com.br/img/Tvs/Logo/42174cd70ddce777c49b24aea7730341.png", TV Rede Gospel
 https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/chunklist.m3u8
-#EXTINF:-1 group-title="Categorias" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/da98ac6d6b08d276d592769ec21bc17f.png",Gospel Movie TV
+#EXTINF:0 type="stream" channelId="-1" group="Categorias" logo="http://www.cxtv.com.br/img/Tvs/Logo/da98ac6d6b08d276d592769ec21bc17f.png", Gospel Movie TV
 https://stmv1.srvif.com/gospelf/gospelf/chunklist_w1106498873.m3u8
-#EXTINF:-1 group-title="Categorias" tvg-logo="https://1.bp.blogspot.com/-chkAB5neNwU/X5zEOSFU7oI/AAAAAAAADqw/qmAcV5WDCPAvHHD0iP6rfETN7mlr99l0ACLcBGAsYHQ/s0/TV%2BPLENITUDE.png",PLENITUDE TV
+#EXTINF:0 type="stream" channelId="-1" group="Categorias" logo="https://1.bp.blogspot.com/-chkAB5neNwU/X5zEOSFU7oI/AAAAAAAADqw/qmAcV5WDCPAvHHD0iP6rfETN7mlr99l0ACLcBGAsYHQ/s0/TV%2BPLENITUDE.png", PLENITUDE TV
 https://meupainel.top:1936/iaptd/iaptd/chunklist_w270803732.m3u8
-#EXTINF:-1 group-title="Categorias" tvg-logo="https://1.bp.blogspot.com/-LA549PisBqs/XbI4KR2XYJI/AAAAAAAACLY/nqnVmE8KNDQnmjYwBDYKfDt5OuYD0MleQCLcBGAsYHQ/s320/Screenshot_2019-10-24-20-44-53.png",TV NOVO TEMPO
+#EXTINF:0 type="stream" channelId="2609" group="Categorias" logo="https://1.bp.blogspot.com/-LA549PisBqs/XbI4KR2XYJI/AAAAAAAACLY/nqnVmE8KNDQnmjYwBDYKfDt5OuYD0MleQCLcBGAsYHQ/s320/Screenshot_2019-10-24-20-44-53.png", TV NOVO TEMPO
 https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/playlist.m3u8
-#EXTINF:-1 group-title="Categorias" tvg-logo="https://1.bp.blogspot.com/-baJysP8XY-o/XcSRPD8gcoI/AAAAAAAACOw/MTe8L0WbQZ8tz9bVFaPu1id1dWHzyuGpgCLcBGAsYHQ/s320/Screenshot_2019-11-07-18-45-11.png",TV JESUS CRISTO
+#EXTINF:0 type="stream" channelId="-1" group="Categorias" logo="https://1.bp.blogspot.com/-baJysP8XY-o/XcSRPD8gcoI/AAAAAAAACOw/MTe8L0WbQZ8tz9bVFaPu1id1dWHzyuGpgCLcBGAsYHQ/s320/Screenshot_2019-11-07-18-45-11.png", TV JESUS CRISTO
 https://anrwfbifua.zoeweb.tv/apalavra/apalavra/chunklist.m3u8
-#EXTINF:-1 group-title="Categorias" tvg-logo="https://2.bp.blogspot.com/-jKWlOG_wLQg/XHHuvA1Z76I/AAAAAAAAAqM/SZ0nzi81fGATombLrjjujhM5845M216qgCLcBGAs/s320/Screenshot_2019-02-23-22-03-38.png",TV CRISTO VIVE
+#EXTINF:0 type="stream" channelId="-1" group="Categorias" logo="https://2.bp.blogspot.com/-jKWlOG_wLQg/XHHuvA1Z76I/AAAAAAAAAqM/SZ0nzi81fGATombLrjjujhM5845M216qgCLcBGAs/s320/Screenshot_2019-02-23-22-03-38.png", TV CRISTO VIVE
 https://5a57bda70564a.streamlock.net/tvcristo/tvcristo.sdp/chunklist_w2075183314.m3u8
-#EXTINF:-1 group-title="Categorias" tvg-logo="https://4.bp.blogspot.com/-s9EMrze8XCY/XRkWxEOsCPI/AAAAAAAABQo/YDZdT4RPqsQPyJ9jjfZD6bpHqJjyr-lKQCPcBGAYYCw/s320/Screenshot_2019-06-30-16-46-06.png",IMPD TV (Igreja Mundial do Poder de Deus
+#EXTINF:0 type="stream" channelId="-1" group="Categorias" logo="https://4.bp.blogspot.com/-s9EMrze8XCY/XRkWxEOsCPI/AAAAAAAABQo/YDZdT4RPqsQPyJ9jjfZD6bpHqJjyr-lKQCPcBGAYYCw/s320/Screenshot_2019-06-30-16-46-06.png", IMPD TV (Igreja Mundial do Poder de Deus
 https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/chunklist_w1385960736_b4227072.m3u8
-#EXTINF:-1 group-title="Categorias" tvg-logo="https://3.bp.blogspot.com/-bKKdfhAv0pE/XGGbNqyN6yI/AAAAAAAAAnA/Br_n9Gj7vc4Jq410G0byOqWXpeduwCq0gCPcBGAYYCw/s320/Screenshot_2019-02-11-13-51-51.png",TV CIDADE VIVA canal
+#EXTINF:0 type="stream" channelId="-1" group="Categorias" logo="https://3.bp.blogspot.com/-bKKdfhAv0pE/XGGbNqyN6yI/AAAAAAAAAnA/Br_n9Gj7vc4Jq410G0byOqWXpeduwCq0gCPcBGAYYCw/s320/Screenshot_2019-02-11-13-51-51.png", TV CIDADE VIVA canal
 https://live.cdn.upx.com/kwjqp/smil:cidadeviva.smil/chunklist_b720000.m3u8?be1bd7c3fc4b69f95014d52116e0c491
-#EXTINF:-1 group-title="Categorias" tvg-logo="https://img.radios.com.br/radio/lg/radio19067_1439401532.jpg",rádio Perfeito Louvor
+#EXTINF:0 type="stream" channelId="-1" group="Categorias" logo="https://img.radios.com.br/radio/lg/radio19067_1439401532.jpg", rádio Perfeito Louvor
 http://perfeitolouvor.com.br:8000/streamBelém
-#EXTINF:-1 group-title="Categorias" tvg-logo="https://img.radios.com.br/radio/lg/radio10459_1439984908.jpg",Rádio Boas Novas FM  do Pará
+#EXTINF:0 type="stream" channelId="-1" group="Categorias" logo="https://img.radios.com.br/radio/lg/radio10459_1439984908.jpg", Rádio Boas Novas FM  do Pará
 http://cast61.sitehosting.com.br:8295/live
-#EXTINF:-1 group-title="Categorias" tvg-logo="https://img.radios.com.br/radio/lg/radio13224_1547833325.jpg",Rádio FM Liberdade Belém do Pará
+#EXTINF:0 type="stream" channelId="-1" group="Categorias" logo="https://img.radios.com.br/radio/lg/radio13224_1547833325.jpg", Rádio FM Liberdade Belém do Pará
 http://streaming11.hstbr.net:8060/live
-#EXTINF:-1 group-title="Categorias" tvg-logo="https://img.radios.com.br/radio/lg/radio62322_1573501931.jpg",Rádio Sound Gospel Belém do Pará
+#EXTINF:0 type="stream" channelId="-1" group="Categorias" logo="https://img.radios.com.br/radio/lg/radio62322_1573501931.jpg", Rádio Sound Gospel Belém do Pará
 http://centova10.ipstm.net:20824/stream
-#EXTINF:-1 group-title="Categorias" tvg-logo="https://img.radios.com.br/radio/lg/radio129384_1575375279.jpg",Rádio Diamante Gospel Castanhal Pará
+#EXTINF:0 type="stream" channelId="-1" group="Categorias" logo="https://img.radios.com.br/radio/lg/radio129384_1575375279.jpg", Rádio Diamante Gospel Castanhal Pará
 http://stream.zeno.fm/kdtysktqtqruv
-#EXTINF:-1 group-title="Categorias" tvg-logo="https://img.radios.com.br/radio/lg/radio107915_1556828555.jpg",Rádio Fogo e Glória Capanema Pará
+#EXTINF:0 type="stream" channelId="-1" group="Categorias" logo="https://img.radios.com.br/radio/lg/radio107915_1556828555.jpg", Rádio Fogo e Glória Capanema Pará
 http://stm11.srvstm.com:9690/stream
-#EXTINF:-1 group-title="radio GOSPEL ao vivo" tvg-logo="https://img.radios.com.br/radio/lg/radio99395_1548145743.jpg",sintonia da verdade
+#EXTINF:0 type="stream" channelId="-1" group="radio GOSPEL ao vivo" logo="https://img.radios.com.br/radio/lg/radio99395_1548145743.jpg", sintonia da verdade
 https://s13.maxcast.com.br:8176/live?id=1260404905096
-#EXTINF:-1 group-title="Categorias",R�dio Gospel Campinas
+#EXTINF:0 type="stream" channelId="-1" group="Categorias", R�dio Gospel Campinas
 http://centova.nardele.com.br:4343/stream?1570481776144
-#EXTINF:-1 group-title="Categorias" tvg-logo="https://www.radiorauland.com.br/admin/assets/img/logo.png",Rádio Rauland FM Belém
+#EXTINF:0 type="stream" channelId="-1" group="Categorias" logo="https://www.radiorauland.com.br/admin/assets/img/logo.png", Rádio Rauland FM Belém
 https://ssl.ifantasy.com.br:6672/;?1613591948054
-#EXTINF:-1 group-title="Categorias" tvg-logo="https://img.radios.com.br/radio/lg/radio8901_1439401342.JPG",Rádio FM 99 Belém do Pará
+#EXTINF:0 type="stream" channelId="-1" group="Categorias" logo="https://img.radios.com.br/radio/lg/radio8901_1439401342.JPG", Rádio FM 99 Belém do Pará
 http://hts02.kshost.com.br:8862/live
-#EXTINF:-1 group-title="Categorias" tvg-logo="https://img.radios.com.br/radio/lg/radio13581_1542629185.png",Rádio Liberal FM Belém do Pará
+#EXTINF:0 type="stream" channelId="-1" group="Categorias" logo="https://img.radios.com.br/radio/lg/radio13581_1542629185.png", Rádio Liberal FM Belém do Pará
 http://177.105.192.70:9750/liberalfm.mp3
-#EXTINF:-1 group-title="Categorias" tvg-logo="https://img.radios.com.br/radio/lg/radio111421_1560867731.png",Rádio Lib Music Belém do Pará
+#EXTINF:0 type="stream" channelId="-1" group="Categorias" logo="https://img.radios.com.br/radio/lg/radio111421_1560867731.png", Rádio Lib Music Belém do Pará
 https://s09.maxcast.com.br:8122/live
-#EXTINF:-1 group-title="Categorias" tvg-logo="https://img.radios.com.br/radio/lg/radio38481_1556802158.png",Rádio Metropolitana Belém do Pará
+#EXTINF:0 type="stream" channelId="-1" group="Categorias" logo="https://img.radios.com.br/radio/lg/radio38481_1556802158.png", Rádio Metropolitana Belém do Pará
 http://6vlxr.srv27.brasilstream.com.br:9320/stream
-#EXTINF:-1 group-title="Categorias" tvg-logo="https://img.radios.com.br/radio/lg/radio117329_1566900780.jpg",Rádio Sucesso Pará FM Web Belém do Pará
+#EXTINF:0 type="stream" channelId="-1" group="Categorias" logo="https://img.radios.com.br/radio/lg/radio117329_1566900780.jpg", Rádio Sucesso Pará FM Web Belém do Pará
 http://stm12.xcast.com.br:10898/;
-#EXTINF:-1 group-title="Categorias" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/e/ed/Logotipo_R%C3%A1dio_Clube_do_Par%C3%A1.jpg",Rádio Clube do Pará
+#EXTINF:0 type="stream" channelId="-1" group="Categorias" logo="https://upload.wikimedia.org/wikipedia/pt/e/ed/Logotipo_R%C3%A1dio_Clube_do_Par%C3%A1.jpg", Rádio Clube do Pará
 http://ice01.kshost.com.br:8000/live
