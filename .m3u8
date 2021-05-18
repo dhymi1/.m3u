@@ -2,7 +2,7 @@
 #EXTINF:0 type="stream" channelId="-1" group="Categorias" logo="https://listaiptv.gratis/logos/imagens/sbt.png", SBT TV Cidade Verde PI
 https://stmv1.transmissaodigital.com/cidadeverde/cidadeverde/playlist-480p.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="Categorias" logo="https://www.sbt.com.br/assets/images/logo-sbt.png", SBT Pará
-https://www.youtube.com/embed/RHeibnhwF-w
+https://raw.githubusercontent.com/dhymi1/.m3u/main/.m3u
 #EXTINF:0 type="stream" channelId="-1" group="Léo Gondim" logo="https://upload.wikimedia.org/wikipedia/pt/8/8b/Logomarca_Record_2007.png", RECORD SP
 http://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_360_av-p.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="Categorias" logo="https://upload.wikimedia.org/wikipedia/pt/8/8b/Logomarca_Record_2007.png", RecordTV Pará
